@@ -6,9 +6,12 @@ react highlighter javascript without any package or library using react hook
 
 ## how to run:
 
-git clone 
+```
+
+npm i
 npm start ! 
 
+```
 
 ## Refrences:
 https://developer.mozilla.org/en-US/docs/Web/API/Window/getSelection
