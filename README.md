@@ -10,10 +10,13 @@ npm start !
 
 
 ## Refrences:
-//https://developer.mozilla.org/en-US/docs/Web/API/Window/getSelection
-// https://medium.com/unprogrammer/a-simple-text-highlighting-component-with-react-e9f7a3c1791a
-//thanks for the provider and @Saeed Rastgar my friend to assist the in the CSS part.
-// https://stackoverflow.com/questions/38810767/how-can-you-get-highlighted-text-window-getselection-in-reactjs
+https://developer.mozilla.org/en-US/docs/Web/API/Window/getSelection
+
+https://medium.com/unprogrammer/a-simple-text-highlighting-component-with-react-e9f7a3c1791a
+
+thanks for the provider and @Saeed Rastgar my friend to assist the in the CSS part.
+https://stackoverflow.com/questions/38810767/how-can-you-get-highlighted-text-window-getselection-in-reactjs
+
 
 
 
