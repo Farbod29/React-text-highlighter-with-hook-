@@ -9,7 +9,7 @@ react highlighter javascript without any package or library using react hook
 ```
 
 npm i
-npm start ! 
+npm start
 
 ```
 
