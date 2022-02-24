@@ -1,6 +1,6 @@
 import './App.css';
 import Highlighter from './highlighter';
-import Highlighter2 from './highlighter2';
+//import Highlighter2 from './highlighter2';
 function App() {
   return (
     <div className="App">

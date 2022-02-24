@@ -28,10 +28,11 @@ export default function Highlighter() {
             src="https://pfrias.couragecompanion.eu/storage/m/_v2/213604778138275840/4f8b684e5-e9314a/vlyvkRQwb3ew/u8hVvH5l5IFvha9MQyXCzPOYLo2SXG3bqIpv6vBg.png"
           ></image>
           <div className="margin-top-zero txt">
-            Here is react text highlighter with hook and use state, I could't
-            store the highlightedText in the state the point was, now the state
-            is get updated and the app is super simple to use and understand if
-            you have any question just email : aprin.farbod@gmail.com.
+            Here is react text highlighter with hook and use state/Effect, I
+            could't store the highlightedText in the state the point was, now
+            the state is get updated and the app is super simple to use and
+            understand if you have any question just email :
+            aprin.farbod@gmail.com.
           </div>
           {/* {ghasem} */}
           <div className="txt">{highlightedText}</div>
