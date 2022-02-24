@@ -1,26 +1,30 @@
 # React-text-highlighter-with-hook-
-React text highlighter with hook and use state - super simple
+React text highlighter with hook and useState  - super simple -
+react highlighter javascript without any package or library using react hook
 
 ![Screenshot 2022-02-21 at 15 03 22](https://user-images.githubusercontent.com/17232450/154971324-566f96e8-955e-4cf2-8633-32739840073a.png)
 
 ## how to run:
 
-git clone 
-npm start ! 
+```
 
+npm i
+npm start
+
+```
 
 ## Refrences:
 https://developer.mozilla.org/en-US/docs/Web/API/Window/getSelection
 
 https://medium.com/unprogrammer/a-simple-text-highlighting-component-with-react-e9f7a3c1791a
 
-thanks for the provider and @Saeed Rastgar my friend to assist the in the CSS part.
+Thanks for the provider and @Saeed Rastgar my friend to assist the in the CSS part.
+
 https://stackoverflow.com/questions/38810767/how-can-you-get-highlighted-text-window-getselection-in-reactjs
 
 
-
-
-![Screenshot 2021-09-08 at 20 35 08](https://user-images.githubusercontent.com/17232450/132565783-4d857ff6-6ff9-47b4-81b5-a52f2283e55c.png)
+## support 
+aprin.farbod@gmail.com
 
 
 # Donate
